@@ -111,4 +111,4 @@ saberes_foi = KIWC.2(meu.corpus.list, "saberes.txt", "foi", 10, 10)
 
 write.csv(saberes_foi, "test.csv")
 
-# teste nova alteracao
+# teste nova alteracao 2
